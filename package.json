@@ -1,0 +1,23 @@
+{
+  "name": "match-maker-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^20.8.0",
+    "heap": "^0.2.7",
+    "heap-js": "^2.3.0",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/heap": "^0.2.32"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
